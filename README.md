@@ -2,4 +2,4 @@
 My first repository 
 
 # name
-Pranshu Tripat
+Pranshu Tripatthi.
