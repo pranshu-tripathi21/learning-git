@@ -3,3 +3,4 @@ My first repository
 
 # name
 Pranshu Tripatthi.
+main Akash
