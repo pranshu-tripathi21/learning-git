@@ -2,9 +2,5 @@
 My first repository 
 
 # name
-Pranshu Tripatthi.
-<<<<<<< HEAD
-main Akash
-=======
+Pranshu Tripatthi
  try Abhishek
->>>>>>> try
